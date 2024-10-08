@@ -54,4 +54,8 @@
 		<ProjectReference Include="..\ZXing.Net.MAUI.Controls\ZXing.Net.MAUI.Controls.csproj" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.Maui.Controls" Version="8.0.72" />
+	</ItemGroup>
+
 </Project>
